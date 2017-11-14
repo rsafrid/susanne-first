@@ -1,1 +1,3 @@
 Nu lägger jag till lite ny text och försökeer pusha till github.
+Nu lägger vi till lite mer text
+och pushar igen.
